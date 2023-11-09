@@ -1,9 +1,7 @@
 # blog
 
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+function test() {
+  console.log("notice the blank line before this function?");
 }
 ```
